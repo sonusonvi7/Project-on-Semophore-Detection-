@@ -77,7 +77,7 @@ Support for full word and sentence formation
 Save decoded messages to a log file
 
 🔗 Connect
-Created by Rahul Mirji
-📍 HKBK College of Engineering
-📲 Follow my tech reels on Instagram @rahul__mirji
+Linkedin : Sonvi Assis Noronha
+https://www.linkedin.com/in/sonvi-assis-noronha-96531524b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Email:sonusonvi7@gmail.com
 ```
